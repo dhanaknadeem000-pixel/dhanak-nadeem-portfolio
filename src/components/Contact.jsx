@@ -66,7 +66,7 @@ function Contact() {
           <div className="contact-item">
             <h4>📸 Instagram</h4>
             <a
-              href="https://www.instagram.com/the.digital.creator"
+              href="https://www.instagram.com/the.digital.engineer"
               target="_blank"
               rel="noreferrer"
             >
